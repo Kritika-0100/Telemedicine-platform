@@ -67,7 +67,7 @@ Installation & Setup ⚙️
 
 Clone the repository:
 
-git clone https://github.com/your-username/telemed.git
+git clone https://github.com/Kritika-0100/telemedicine-platform.git
 cd telemed-frontend  # ⚠️ Make sure you are in the frontend folder
 
 
